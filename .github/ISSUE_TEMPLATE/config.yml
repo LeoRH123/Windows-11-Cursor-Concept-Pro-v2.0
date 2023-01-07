@@ -1,0 +1,16 @@
+blank_issues_enabled: false
+contact_links: 
+  - name: "Youtube"
+    url: https://youtube.com/@infoyps
+    about: My Youtube Channel
+    
+  - name: "GitHub"
+    url: https://github.com/PSGitHubUser1
+    about: My GitHub Page
+    
+  - name: "Discord Server"
+    url: https://discord.gg/GYATqrtJSq
+    about: My Discord Server
+    
+  - name: "Personal Discord"
+    about: PSPlaysMC#3778
