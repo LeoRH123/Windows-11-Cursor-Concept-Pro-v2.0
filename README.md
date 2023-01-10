@@ -1,5 +1,4 @@
 ![](https://img.shields.io/github/v/release/PSGitHubUser1/Windows-11-Cursor-Concept-Pro-v2.0?color=dark_green&style=for-the-badge)
-![](https://img.shields.io/github/last-commit/PSGitHubUser1/Windows-11-Cursor-Concept-Pro-v2.0?style=for-the-badge)
 ![](https://img.shields.io/github/release-date-pre/PSGitHubUser1/Windows-11-Cursor-Concept-Pro-v2.0?style=for-the-badge)
 ![](https://img.shields.io/github/issues/PSGitHubUser1/Windows-11-Cursor-Concept-Pro-v2.0?style=for-the-badge)
 
