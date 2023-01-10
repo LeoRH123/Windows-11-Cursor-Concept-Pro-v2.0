@@ -2,8 +2,6 @@
 ![](https://img.shields.io/github/release-date-pre/PSGitHubUser1/Windows-11-Cursor-Concept-Pro-v2.0?style=for-the-badge)
 ![](https://img.shields.io/github/issues/PSGitHubUser1/Windows-11-Cursor-Concept-Pro-v2.0?style=for-the-badge)
 
-**-------Intallation--------**
-
 ## Windows-Cursor-Concept-Pro-v2.2
 
 1. Install the default cursor by 'Install.inf'
