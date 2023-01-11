@@ -16,4 +16,7 @@
 `2` Read 'Read this.pdf' file to install Additional "Busy & Working" animated colourfull cursors.
 
 `3` Enjoy!
+-------------------------------------
 
+### Also check out this project which changes the old Minecraft texture to new one:
+https://github.com/PSGitHubUser1/better-vanilla-textures
