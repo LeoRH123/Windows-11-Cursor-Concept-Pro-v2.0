@@ -2,7 +2,7 @@
 
 -------------
 
-### Also check out this project which changes the old Minecraft texture to new one:
+### Also check out this project which changes the old Minecraft texture to new one [Original]:
 https://github.com/PSGitHubUser1/better-vanilla-textures
 
 ----------------
@@ -11,7 +11,7 @@ https://github.com/PSGitHubUser1/better-vanilla-textures
 ![X](https://img.shields.io/github/release-date-pre/PSGitHubUser1/Windows-11-Cursor-Concept-Pro-v2.0?style=for-the-badge)
 ![X](https://img.shields.io/github/issues/PSGitHubUser1/Windows-11-Cursor-Concept-Pro-v2.0?style=for-the-badge)
 
-## Windows-Cursor-Concept-Pro-v2.2
+## Windows-Cursor-Concept-Pro-v2.x
 * There is no permission (from author) to make this project, its not legal, if you want legal then buy the cursors pack here: 
       https://www.deviantart.com/jepricreations/art/Windows-11-Cursors-Concept-HD-v2-890672103
       
