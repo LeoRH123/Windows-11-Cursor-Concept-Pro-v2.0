@@ -8,7 +8,7 @@ https://github.com/PSGitHubUser1/better-vanilla-textures
 --------
 
 ### ✨And this also✨
-https://github.com/PSGitHubUser1/Windows-Application-Runner
+https://github.com/PSGitHubUser1/Windows-Essentials-Apps-Installer
 
 ----------------
 
