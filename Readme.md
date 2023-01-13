@@ -2,7 +2,7 @@
 
 -------------
 
-### ✨Also check out this project which changes the old Minecraft texture to new one✨:
+### ✨Also check out this project which changes the old Minecraft texture to new one✨
 https://github.com/PSGitHubUser1/better-vanilla-textures
 
 --------
