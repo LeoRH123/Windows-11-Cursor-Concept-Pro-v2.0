@@ -5,6 +5,8 @@
 ### Also check out this project which changes the old Minecraft texture to new one [Original]:
 https://github.com/PSGitHubUser1/better-vanilla-textures
 
+--------
+
 ### And this also
 https://github.com/PSGitHubUser1/Windows-Application-Runner
 
