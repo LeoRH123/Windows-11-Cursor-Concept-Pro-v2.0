@@ -2,12 +2,12 @@
 
 -------------
 
-### Also check out this project which changes the old Minecraft texture to new one [Original]:
+### ✨Also check out this project which changes the old Minecraft texture to new one✨:
 https://github.com/PSGitHubUser1/better-vanilla-textures
 
 --------
 
-### And this also
+### ✨And this also✨
 https://github.com/PSGitHubUser1/Windows-Application-Runner
 
 ----------------
