@@ -13,7 +13,7 @@ body:
  - type: textarea
    attributes:
     label: Logs
-    description: Provide loags [Optional]
+    description: Provide logs [Optional]
     placeholder: |
      example_log.txt
    validations:
