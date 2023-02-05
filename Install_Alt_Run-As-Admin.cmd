@@ -3,6 +3,8 @@
 cd C:\Windows\Cursors
 mkdir Win11_Dark_HD_Cursors
 
+REM Change the "rksra" to your User Profile like "JohnTim" or take %USERPROFILE% or %HOMEDRIVE%%HOMEPATH% 
+
 copy C:\Users\rksra\Desktop\Windows.Cursor.Concept.v2.2\dark\cursor\alternate.cur C:\Windows\Cursors\Win11_Dark_HD_Cursors
 copy C:\Users\rksra\Desktop\Windows.Cursor.Concept.v2.2\dark\cursor\beam.cur C:\Windows\Cursors\Win11_Dark_HD_Cursors
 copy C:\Users\rksra\Desktop\Windows.Cursor.Concept.v2.2\dark\cursor\busy.ani C:\Windows\Cursors\Win11_Dark_HD_Cursors
