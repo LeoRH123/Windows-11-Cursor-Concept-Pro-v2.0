@@ -36,22 +36,8 @@ body:
     description: To understand the issue, we need some details of your setup & system
     placeholder: |
       Version: [v1.2 / v2.1 ...]
-      
    validations:
      required: true
- - type: textarea
-   attributes:
-    label: Example workspace
-    description: |
-      If the bug is related to the workspace, always provide a minimal reproducible example workspace, export it to a shareable ZIP file, and attach it to the ticket.
-      
-      Keep in mind your workspace of the project is not minimal reproducible example. Make a workspace only with elements crucial for the bug.
-      
-      Drag the file into this area.
-    placeholder: | 
-      Insert here
-   validations:
-    required: false
  - type: textarea
    attributes:
     label: Logs
