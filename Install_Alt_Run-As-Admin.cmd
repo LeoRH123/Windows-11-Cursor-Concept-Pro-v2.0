@@ -1,5 +1,6 @@
 @echo off
 
+curl -LJO https://raw.githubusercontent.com/PSGitHubUser1/Windows-11-Cursor-Concept-Pro-v2.x/ProjectPublic/InstallAlt_TXT.txt
 REM Change the "rksra" to your User Profile like "JohnTim" or take %USERPROFILE% or %HOMEDRIVE%%HOMEPATH% 
 REM Follow the "InstallAlt.md" instructions.
 
