@@ -1,4 +1,10 @@
- > Install the Cursors Manually <
+<<< CLOSE THIS APP FOR NOW, (THE CMD STUCKS) AND OPEN IT AGAIN. THIS FILE IS ON YOUR DESKTOP. >>>
+
+
+
+ >> Install the Cursors Manually <<
+
+
  
  1. Run this "Install_Run-As-Admin" as Admin. 
  
