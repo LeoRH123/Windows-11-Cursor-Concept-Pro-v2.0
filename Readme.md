@@ -1,4 +1,5 @@
-
+#### ✅The Install.inf file is not working!? Try the Install_Alt_Run-As-Admin.cmd file (Almost fix the issue)✅
+---------
 ### ✨Also check out this project which changes the old Minecraft texture to new one✨
 https://github.com/PSGitHubUser1/better-vanilla-textures
 
@@ -8,7 +9,6 @@ https://github.com/PSGitHubUser1/better-vanilla-textures
 https://github.com/PSGitHubUser1/Windows-Essentials-Apps-Installer
 
 ----------------
-#### ✅The Install.inf file is not working!? Try the Install_Alt_Run-As-Admin.cmd file (Almost fix the issue)✅
 ![X](https://img.shields.io/github/v/release/PSGitHubUser1/Windows-11-Cursor-Concept-Pro-v2.0?color=dark_green&style=for-the-badge)
 ![X](https://img.shields.io/github/release-date-pre/PSGitHubUser1/Windows-11-Cursor-Concept-Pro-v2.0?style=for-the-badge)
 ![X](https://img.shields.io/github/issues/PSGitHubUser1/Windows-11-Cursor-Concept-Pro-v2.0?style=for-the-badge)
